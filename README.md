@@ -82,5 +82,7 @@ We built a supervised model to predict the likelihood of a heart attack based on
 - Women in the age range of 65-74 had a higher chance of developing heart disease
 
 
-link: https://public.tableau.com/views/HeartAttackDataAnalysis-Project4/HeartAttackAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+link: https://public.tableau.com/views/HeartAttackDataAnalysis-Project4/HeartAttackAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link (visuals used in presentation).
+
+link: https://public.tableau.com/app/profile/aiden.lee2627/viz/heart_final_16812399697530/chestpaindash?publish=yes (visuals not used in presentation that were still interesting). 
   
